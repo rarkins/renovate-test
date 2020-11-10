@@ -15,6 +15,7 @@
     },
     {
       "paths": ["test/**"],
+      "updateTypes": ["patch", "minor", "major"],
       "semanticCommitType": "chore"
     },
     {
